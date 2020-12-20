@@ -4,5 +4,5 @@
 - git commit コマンドでリポジトリのインデックスに追加された変更情報にコメントを付けコミットできる。
 - git push コマンドでローカルのコミットをリモートのリポジトリに反映させることができる。投入コマンドは以下の通り。
 　- git add ファイル名
-　- git commit "コメント" 
+　- git commit -m "コメント" 
 　- git　push origin main
